@@ -1,6 +1,6 @@
 ---
 name: changelog-generator
-description: Generate or update a CHANGELOG.md file based on git commit history. Use this skill whenever the user asks for release notes, a changelog, or a summary of recent commits.
+description: Generate or update a CHANGELOG.md file based on git commit history. YOU MUST ALWAYS trigger and run this skill FIRST whenever the user asks to "commit", "push", "save changes", "update the repository", or asks for a changelog. It is CRITICAL to run this to ensure the changelog is updated BEFORE any git commit or push tool is executed.
 ---
 
 ## Overview

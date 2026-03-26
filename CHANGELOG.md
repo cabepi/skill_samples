@@ -5,6 +5,7 @@
 - `caf945d` feat(committer): add conventional commits skill
 
 ## Build / Chores
+- `pending` build(skills): make changelog generator skill trigger automatically
 - `abf17f6` build(skills): rename skill-committer back to committer
 - `21995af` build(skills): reorganize and add skill-creator
 
