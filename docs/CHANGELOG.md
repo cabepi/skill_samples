@@ -1,6 +1,7 @@
 # Changelog
 
 ## Features
+- [PENDING] feat(skills): add mermaid-diagrams skill - Agent
 - bb61085 feat(skills): add multiple new skills and project documentation - cbetancur
 - d1993f2 feat(skills): add changelog generator skill and initial changelog - cbetancur
 - f7e1dc2 feat(text): add greeting text file - cbetancur
